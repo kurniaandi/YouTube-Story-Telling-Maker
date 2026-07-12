@@ -1,0 +1,52 @@
+my_config.json
+/video01
+/video02
+**/__pycache__
+
+# YouTube project rotation - credentials & quota state
+secrets/*.json
+!secrets/.gitkeep
+data/youtube_quota_state.json
+token.json
+client_secret.json
+
+# Video generation outputs
+outputs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Cache
+.cache/
+
+# Pytest
+.pytest_cache/
+
+# Build
+build/
+dist/
+
+# Secrets
+.env
+.env.*
+
+# OS
+Thumbs.db
+.DS_Store
+
+#CONFIG
+my_config.json

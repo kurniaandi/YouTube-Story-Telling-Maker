@@ -1,0 +1,60 @@
+{
+  "stories": [
+    {
+      "title": "Merantau demi Mengubah Nasib",
+      "theme": "keberanian meninggalkan zona nyaman",
+      "premise": "Seseorang yang nekat pergi jauh dari kampung halaman tanpa kenalan dan modal besar, demi mencari peluang hidup yang lebih baik meski harus menghadapi kesepian dan kegagalan berkali-kali.",
+      "moral": "Keberanian mengambil langkah pertama adalah awal dari semua perubahan.",
+      "reference_keyword": "seseorang membawa tas ransel menunggu di stasiun kereta"
+    },
+    {
+      "title": "Belajar Mencintai Diri Sendiri",
+      "theme": "self love dan kesehatan mental",
+      "premise": "Seseorang yang terbiasa mengutamakan kebutuhan orang lain hingga lupa menjaga dirinya sendiri, sampai akhirnya menyadari pentingnya memberi ruang untuk diri sendiri tanpa rasa bersalah.",
+      "moral": "Mencintai diri sendiri bukan egois, tapi kebutuhan agar bisa terus memberi kepada orang lain.",
+      "reference_keyword": "seseorang duduk tenang minum teh di dekat jendela pagi"
+    },
+    {
+      "title": "Persahabatan yang Teruji Waktu",
+      "theme": "ketulusan dalam pertemanan",
+      "premise": "Dua sahabat yang sempat berpisah jalan karena kesibukan dan kesalahpahaman, namun tetap saling mendukung diam-diam hingga akhirnya bertemu kembali dalam momen yang tak terduga.",
+      "moral": "Persahabatan sejati tidak pudar oleh jarak maupun waktu.",
+      "reference_keyword": "dua orang berpelukan di halte bus senja hari"
+    },
+    {
+      "title": "Menemukan Makna di Balik Kesibukan",
+      "theme": "keseimbangan hidup dan pekerjaan",
+      "premise": "Seorang pekerja keras yang terus mengejar karier hingga lupa waktu bersama orang tercinta, sampai sebuah kejadian kecil membuatnya sadar untuk menata ulang prioritas hidupnya.",
+      "moral": "Kesuksesan tidak berarti apa-apa jika kehilangan momen berharga bersama orang tersayang.",
+      "reference_keyword": "orang kantoran menatap kalender penuh jadwal di meja kerja"
+    },
+    {
+      "title": "Berani Berkata Tidak",
+      "theme": "menetapkan batasan diri",
+      "premise": "Seseorang yang selalu menyanggupi permintaan orang lain meski merugikan dirinya sendiri, hingga akhirnya belajar bahwa menolak dengan sopan bukan berarti tidak peduli.",
+      "moral": "Menjaga batasan diri adalah bentuk penghormatan terhadap diri sendiri.",
+      "reference_keyword": "seseorang menghela napas menatap ponsel penuh pesan di sofa"
+    },
+    {
+      "title": "Bertahan di Tengah Perubahan Zaman",
+      "theme": "adaptasi dan keterbukaan pada perubahan",
+      "premise": "Seorang pemilik usaha tradisional yang harus belajar teknologi baru agar usahanya tetap bertahan, meski awalnya merasa kesulitan dan enggan beradaptasi.",
+      "moral": "Bertahan bukan berarti menolak perubahan, tapi belajar berjalan bersamanya.",
+      "reference_keyword": "pedagang tua belajar menggunakan ponsel pintar di toko"
+    },
+    {
+      "title": "Menghargai Proses, Bukan Hanya Hasil",
+      "theme": "menikmati perjalanan hidup",
+      "premise": "Seorang atlet muda yang terlalu fokus pada kemenangan hingga kehilangan kebahagiaan dalam berlatih, sampai seorang pelatih mengajarkannya untuk menikmati setiap proses latihan.",
+      "moral": "Kebahagiaan sejati ada dalam perjalanan, bukan hanya di garis akhir.",
+      "reference_keyword": "atlet muda berlatih sendirian di lapangan sore hari"
+    },
+    {
+      "title": "Menerima Kehilangan dengan Lapang Dada",
+      "theme": "kehilangan dan proses berduka",
+      "premise": "Seseorang yang kehilangan orang tercinta dan berjuang melalui masa duka yang panjang, hingga akhirnya menemukan cara untuk terus hidup sambil membawa kenangan indah bersamanya.",
+      "moral": "Berduka adalah bagian dari mencintai, dan waktu akan mengajarkan cara untuk berdamai dengannya.",
+      "reference_keyword": "seseorang menaruh bunga di depan foto kenangan di rumah"
+    }
+  ]
+}
