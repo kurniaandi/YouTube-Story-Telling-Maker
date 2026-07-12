@@ -1,4 +1,4 @@
-# TikTokAIVideoGenerator — Dokumentasi Lengkap
+#Dokumentasi Lengkap
 
 > **YouTube Story Telling Maker** — Generate + Auto-Upload video storytelling motivasi ke YouTube Shorts secara otomatis.
 
